@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nakul Siwach</h1>
-<h3 align="center">CSE Undergrad. Web Developer. Competitive Programmer</h3>
+<h3 align="center">CSE Undergrad. Web Developer. Competitive Programmer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nakulsiwach&label=Profile%20views&color=0e75b6&style=flat" alt="nakulsiwach" /> </p>
 
