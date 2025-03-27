@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nakulsiwach&label=Profile%20views&color=0e75b6&style=flat" alt="nakulsiwach" /> </p>
 
-- 🔭 I’m currently working on [Crypto Tracker Website](https://crypto-tracker-nakulsiwach.herokuapp.com/) and Recommender Systems.
+- 🔭 I’m currently working on Microservices based Web Applications.
 
 - 👨‍💻 All of my links are available at [https://linktr.ee/nakul_siwach](https://linktr.ee/nakul_siwach)
-
-- 💬 Ask me about **MERN (Mongo,Express.js,React.js,Node.js)**
 
 - 📫 How to reach me **nakulsiwach007@gmail.com**
 
