@@ -5,17 +5,13 @@
 
 - 🔭 I’m currently working on Microservices based Web Applications.
 
-- 👨‍💻 All of my links are available at [https://linktr.ee/nakul_siwach](https://linktr.ee/nakul_siwach)
-
 - 📫 How to reach me **nakulsiwach007@gmail.com**
-
-- ⚡ Fun fact **I like to Code Stuff :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nakul_siwach" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nakul_siwach" height="30" width="40" /></a>
 <a href="https://instagram.com/nakulsiwach" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nakulsiwach" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/nakul_siwach" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nakul_siwach" height="30" width="40" /></a>
+<!-- <a href="https://www.codechef.com/users/nakul_siwach" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nakul_siwach" height="30" width="40" /></a> -->
 <a href="https://codeforces.com/profile/nakul_siwach" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nakul_siwach" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nakulsiwach007work" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nakulsiwach007work" height="30" width="40" /></a>
 </p>
